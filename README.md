@@ -1,4 +1,4 @@
-# [b3_java_diplome_collections]( https://spoonless.github.io/epsi-b3-java/les_collections.html#id1)
+# [b3_java_diplome_collections](https://spoonless.github.io/epsi-b3-java/les_collections.html#id1)
 ## Ajout d’examen dans un diplôme
 
 
